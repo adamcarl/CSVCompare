@@ -1,0 +1,17 @@
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.exe.config
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.exe
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.pdb
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.xml
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\Interop.ADODB.dll
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\Interop.ADOX.dll
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.vbproj.ResolveComReference.cache
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.CSVCompare.resources
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.Resources.resources
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.vbproj.GenerateResource.Cache
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.exe
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.xml
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.pdb
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.exe.manifest
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\bin\Debug\CSVcompare.application
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.exe.manifest
+C:\Users\sydney\documents\visual studio 2017\Projects\CSVcompare\CSVcompare\obj\Debug\CSVcompare.application
